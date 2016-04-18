@@ -229,10 +229,13 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Visual SFM](http://ccwu.me/vsfm/)
 * [Bundler SFM](http://www.cs.cornell.edu/~snavely/bundler/)
 * [openMVG: open Multiple View Geometry](http://imagine.enpc.fr/~moulonp/openMVG/) - Multiple View Geometry; Structure from Motion library & softwares
+* [openMVS: open Multiple View Stereovision](https://github.com/cdcseacave/openMVS/) - An open Multi-View Stereo reconstruction library (Dense Point-Cloud Reconstruction/Mesh Reconstruction/Mesh Refinement/Mesh Texturing)
 * [Patch-based Multi-view Stereo V2](http://www.di.ens.fr/pmvs/)
 * [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
 * [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
-* [ Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
+* [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
+* [Restore](https://github.com/NewProggie/Restore) - Shape-from-Silhouette with texture-based mesh object refinement
+
 
 #### Feature Detection and Extraction
 * [VLFeat](http://www.vlfeat.org/)
@@ -430,7 +433,7 @@ Non-uniform Deblurring
 ###### Localization & Mapping:
  * [RatSLAM](https://code.google.com/p/ratslam/)
  * [LSD-SLAM](https://github.com/tum-vision/lsd_slam)
- * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM)
+ * [ORB-SLAM](https://github.com/raulmur/ORB_SLAM) [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2)
 
 #### Single-view Spatial Understanding
  * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
@@ -546,8 +549,9 @@ Non-uniform Deblurring
  * [Flickr Material Database](http://people.csail.mit.edu/celiu/CVPR2010/)
  * [Materials in Context Dataset](http://opensurfaces.cs.cornell.edu/publications/minc/)
 
-#### Multi-view Reconsturction
+#### Multi-view Reconstruction
 * [Multi-View Stereo Reconstruction](http://vision.middlebury.edu/mview/)
+* [MVS Data Set – 2014](http://roboimagedata.compute.dtu.dk/?page_id=36)
 
 #### Saliency Detection
 
